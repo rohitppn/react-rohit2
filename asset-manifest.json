@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rohitppn/restaurant-menu-react.git/static/css/main.17655c3c.css",
+    "main.js": "/rohitppn/restaurant-menu-react.git/static/js/main.f5271ae0.js",
+    "index.html": "/rohitppn/restaurant-menu-react.git/index.html",
+    "main.17655c3c.css.map": "/rohitppn/restaurant-menu-react.git/static/css/main.17655c3c.css.map",
+    "main.f5271ae0.js.map": "/rohitppn/restaurant-menu-react.git/static/js/main.f5271ae0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.f5271ae0.js"
+  ]
+}
